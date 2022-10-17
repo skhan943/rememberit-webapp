@@ -1,0 +1,40 @@
+html, body {
+    margin: 0;
+}
+
+.mainContainer{
+    height: 100vh;
+    background-color: #F7EDDB;
+    display: grid;
+    grid-template-columns: 12.5% 1fr 12.5%;
+    grid-template-rows: 100px 1fr;
+}
+
+.middleArea {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+.leftSideBar {
+    grid-column: 1/2;
+    grid-row: 2/3;
+    background-color: #DFE8CC;
+}
+
+.rightSideBar {
+    grid-column: 3/4;
+    grid-row: 2/3;
+    background-color: #DFE8CC;
+}
+
+.titleBar {
+    grid-column: 1/4;
+    grid-row: 1/2;
+    background-color: #DAE2B6;
+}
+
+.titleBar h1{
+    color: #126F37;
+    font-family: 'Sen', sans-serif;
+    text-align: center;
+}

@@ -1,0 +1,34 @@
+.outer{
+    height: calc(100% - 100px);
+    padding: 50px;
+    background-color: #BCDD76;
+}
+  
+.inner {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Sen', sans-serif;
+}
+
+.inner label{
+    font-size: 32px;
+}
+
+.inner input[type=text] {
+    box-sizing: border-box;
+    height: 50px;
+    padding: 5px;
+    font-size: 20px;
+}
+
+.inner input[type=text]:focus {
+    border: 3px solid #555;
+}
+
+.buttonContainer {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    font-size: 30px;
+}

@@ -1,0 +1,25 @@
+.mainContainer{
+    background-color: #BCDD76;
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin: 50px;
+}
+
+.mainContainer h2{
+    font-family: 'Sen', sans-serif;
+}
+  
+.titleContainer{
+    min-width: 0;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.dateContainer{
+    background-color: #B8D280;
+    flex-basis: 20%;
+    text-align: center;
+    padding-left: 25px;
+    padding-right: 25px;
+}

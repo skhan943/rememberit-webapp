@@ -1,0 +1,13 @@
+.buttonContainer {
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+}
+
+.buttonContainer button {
+    color: #000000;
+    background-color: transparent;
+    border: 0;
+}
