@@ -13,7 +13,3 @@ The MongoDB database is stored in a docker container in order to allow for easy 
 Click the link below to see it in action!
 
 https://www.youtube.com/watch?v=E6GX95caZWQ
-
-### Try it
-
-<Instructions coming at a later date>
