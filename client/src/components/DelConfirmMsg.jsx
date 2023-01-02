@@ -5,7 +5,7 @@ const DelConfirmMsg = () => {
     return(
         <div className={styles.outer}>
             Are you sure you want to delete this memory?
-            <b></b>
+            <br/>
             Cannot be undone
         </div>
     )

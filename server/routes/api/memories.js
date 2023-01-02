@@ -34,7 +34,7 @@ router.get('/', (req, res) => {
 router.get('/:id', (req, res) => {
     Memory.findById(req.params.id)
         .then(memory => res.json(memory))
-        .catch(err => res.status(404).json({nobooksfound: "No memories Found"}));
+        .catch(err => res.status(404).json({noMemories: "No memories Found."}));
 });
 
 // Route: POST api/memories
