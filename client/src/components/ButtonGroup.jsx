@@ -9,17 +9,17 @@ const ButtonGroup = () => {
         <div className={styles.buttonContainer}>
             <button className={styles.searchButton}>
                 <Link to='/search'>
-                    <BsSearch style={{ color: 'black', fontSize: '50px', margin: '20px' }}/>
+                    <BsSearch style={{ color: 'black', fontSize: '50px', margin: '20px' }} />
                 </Link>
             </button>
             <button className={styles.filterButton}>
                 <Link to='/search'>
-                    <BsFilter style={{ color: 'black', fontSize: '50px', margin: '20px' }}/>
+                    <BsFilter style={{ color: 'black', fontSize: '50px', margin: '20px' }} />
                 </Link>
             </button>
             <button className={styles.createButton}>
                 <Link to='/create'>
-                    <AiOutlinePlus style={{ color: 'black', fontSize: '50px', margin: '20px' }}/>
+                    <AiOutlinePlus style={{ color: 'black', fontSize: '50px', margin: '20px' }} />
                 </Link>
             </button>
         </div>

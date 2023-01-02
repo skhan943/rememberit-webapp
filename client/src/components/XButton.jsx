@@ -8,7 +8,7 @@ const XButton = (props) => {
         <div className={styles.container}>
             <button onClick={props.onClick}>
                 <Link to={props.linkTo}>
-                    <BsX style={{ color: 'black', fontSize: '50px', margin: '20px' }}/>
+                    <BsX style={{ color: 'black', fontSize: '50px', margin: '20px' }} />
                 </Link>
             </button>
         </div>

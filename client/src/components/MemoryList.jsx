@@ -23,7 +23,7 @@ const MemoryList = (props) => {
             });
     }, []);
 
-    const displayList = memoryList.memories.map(mem => <MemoryCard memory={mem} key={mem._id}/>);
+    const displayList = memoryList.memories.map(mem => <MemoryCard memory={mem} key={mem._id} />);
 
     return(
         <div className={styles.list}>
