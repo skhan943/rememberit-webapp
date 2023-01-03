@@ -1,7 +1,7 @@
 ## RememberIt
 
 ### Background
-If you are like me then you like to save everything and I mean everything that you find interesting, want to watch later, don't want to forget, etc. For the longest time, I've been using an empty discord server to store all my memories. Then I realized this is a problem that I can fix!
+If you are like me then you like to save everything that you find interesting, want to watch later, don't want to forget, etc. For the longest time, I've been using an empty discord server to store all my memories. Then I realized this is a problem that I can fix!
 
 That's how the idea for RememberIt was born. I drew up some UI sketches in figma and got to work. After a couple months of working on it on and off on my own time, I can now easily track and search through my memories with a purpose-built system.
 
