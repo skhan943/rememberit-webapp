@@ -15,4 +15,4 @@ Click the link below to see it in action!
 https://www.youtube.com/watch?v=E6GX95caZWQ
 
 ### Copyright
-RememberIt by Sufyan Khan is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+RememberIt is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
